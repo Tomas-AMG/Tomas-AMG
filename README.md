@@ -10,4 +10,3 @@
 - 📫 How to reach me: batata
 - 😄 Pronouns: batata
 - ⚡ Fun fact: batata
-
