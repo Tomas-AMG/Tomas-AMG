@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
 **Tomas-AMG/Tomas-AMG** is a ✨ batata ✨ repository
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on batata
 - 🌱 I’m currently learning batata
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: batata
 - 😄 Pronouns: batata
 - ⚡ Fun fact: batata
--->
+
