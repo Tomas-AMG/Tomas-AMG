@@ -21,12 +21,6 @@
 
 ---
 
-## 📚 Education
-
-- **Bachelor’s in Computer Engineering** — ISEP, Porto *(2023 - Present)*  
-
----
-
 ## 📫 Where to find me
 
 - [LinkedIn](https://www.linkedin.com/in/tomas-gandarela/)  
